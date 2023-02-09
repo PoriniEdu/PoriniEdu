@@ -5,5 +5,12 @@ This is their GitHub page.
 ***
 
 ### FACERE AD INTELLIGENDUM – INTELLIGERE AD DOCENDUM
+***
 
-https://www.porini.it
+###### More About Us
+
+**[Porini Education](https://www.porini.it/porini-education)**
+
+**[Porini Innovation Reasearch Center](https://www.porini.it/porini-innovation-research-center-for-data-science/)**
+
+**[Porini](https://www.porini.it/)**
